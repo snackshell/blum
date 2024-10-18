@@ -437,8 +437,7 @@ async def main():
    ██║  ████║   ████╔══████╔══██║ ╚██╔╝         ██║  ██╔══╝ ██║    ██╔══██║
    ██║  ██╚██████╔██║  ████║  ██║  ██║          ██║  ███████╚████████║  ██║
    ╚═╝  ╚═╝╚═════╝╚═╝  ╚═╚═╝  ╚═╝  ╚═╝          ╚═╝  ╚══════╝╚═════╚═╝  ╚═╝                                                                                                                                                                                            
-                                                                                                                                                                                                                     
-    Auto Claim Bot For Blum - TIGRAY TECH
+                                                                                                                                                                                                                     Auto Claim Bot For Blum - TIGRAY TECH
     Github  : https://github.com/Medhanye6
     Telegram: https://t.me/Medhanye6
         {Style.RESET_ALL}"""                                                                                                  
