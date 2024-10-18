@@ -437,7 +437,7 @@ async def main():
 ██╔══████╔══████║╚██╗████╔══██║    ██║    ██║   ████║  ████╔══╝ ╚════██║
 ██████╔██║  ████║ ╚██████║  ██║    ╚██████╚██████╔██████╔██████████████║
 ╚═════╝╚═╝  ╚═╚═╝  ╚═══╚═╝  ╚═╝     ╚═════╝╚═════╝╚═════╝╚══════╚══════╝                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                     Auto Claim Bot For Blum - TIGRAY TECH
+    Auto Claim Bot For Blum - TIGRAY TECH
     Github  : https://github.com/snackshell
     Telegram: https://t.me/banacodes
         {Style.RESET_ALL}"""                                                                                                  
