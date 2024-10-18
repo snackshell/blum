@@ -9,7 +9,6 @@ import asyncio
 import argparse
 import aiofiles
 import aiofiles.os
-import pyfiglet
 from base64 import b64decode
 import aiofiles.ospath
 from colorama import init, Fore, Style
